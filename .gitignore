@@ -17,5 +17,6 @@
 *.suo
 *.sdf
 *.user
+ipch/
 Debug/
 Release/
