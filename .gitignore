@@ -15,5 +15,7 @@
 # MSVS
 *.opensdf
 *.suo
+*.sdf
+*.user
 Debug/
 Release/
